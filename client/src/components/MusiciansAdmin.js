@@ -72,7 +72,7 @@ export default class MusiciansAdmin extends Component {
       <Fragment>
         <section className="section">
           <div className="container">
-            <p className="subtitle is-5">Add and remove musicians using the form below:</p>
+            <p className="subtitle is-5">Add and remove using the form below:</p>
             <br />
             <div className="columns">
               <div className="column is-one-third">
@@ -113,7 +113,7 @@ export default class MusiciansAdmin extends Component {
                   <div className="field">
                     <div className="control">
                       <button type="submit" className="button is-primary is-medium">
-                        Add musician
+                        Add Item
                       </button>
                     </div>
                   </div>
